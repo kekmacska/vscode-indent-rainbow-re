@@ -1,0 +1,6 @@
+.vscode
+dist
+out
+*.lock
+*.vsix
+node_modules

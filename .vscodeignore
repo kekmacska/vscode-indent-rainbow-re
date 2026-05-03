@@ -1,0 +1,16 @@
+.vscode/**
+typings/**
+**/*.ts
+**/*.map
+tests/**
+.gitignore
+tsconfig.json
+vsc-extension-quickstart.md
+bun.lock
+node_modules
+build.js
+*.config.*
+*.sh
+src
+.gitignore
+.git/**
